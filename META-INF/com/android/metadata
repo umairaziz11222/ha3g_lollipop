@@ -1,0 +1,4 @@
+post-build=samsung/ha3gxx/ha3g:5.0/LRX21V/N900XXUEBNL4:user/release-keys
+post-timestamp=1418315733
+pre-build=samsung/ha3gxx/ha3g:4.4.2/KOT49H/N900XXUENJ3:user/release-keys
+pre-device=ha3g

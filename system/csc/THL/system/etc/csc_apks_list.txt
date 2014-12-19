@@ -1,0 +1,3 @@
+/system/app/GalaxyAppCenter_preload_17112014.apk
+/system/app/Galaxy_Gift_com.samsung.privilege_5.1.5_48.apk
+/system/app/line-preload-shortcut.apk
